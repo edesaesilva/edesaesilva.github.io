@@ -1,6 +1,6 @@
-#Elizabeth de Sa e Silva
 ### Orbit Simulator
 
+<span style="color:blue">some *blue* text</span>
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
